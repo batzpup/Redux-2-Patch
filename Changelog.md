@@ -22,5 +22,5 @@ Redux II introduces several new features that were not present in the original *
 - **Starter Decks Adjusted**: Starter decks are based on the vanilla ones but have been adjusted for better balance.
 
 ## Known Issue
-The only **unintentional property** you may encounter is a common **emulator bug**. This bug can cause the audio to glitch out, muting either some or all sound effects or music, and may produce a high-pitched sound. If this occurs, your game will eventually crash. It is recommended that you save your game, if possible, and reset the emulator.   
+The only **unintentional property** you may encounter is a common emulator bug. This bug can cause the audio to glitch out, muting either some or all sound effects or music, and may produce a high-pitched sound. If this occurs, your game will eventually crash. It is recommended that you save your game, if possible, and reset the emulator.   
 This bug happens in **any version of Duelists of the Roses**, including the vanilla version, and is **not related to Redux II**.  
