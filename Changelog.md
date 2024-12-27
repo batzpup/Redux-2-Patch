@@ -10,7 +10,7 @@ If you're not familiar with the original **Redux** mod or the **All Cards Mod**,
 
 ### New Features in Redux II
 Redux II introduces several new features that were not present in the original **Redux** (which debuted in the All Cards Mod), including:
-- **Fuse Rituals in the Hand**: You can now fuse ritual monsters directly from your hand.
+- **Fuse Rituals in the Hand**: You can now fuse ritual monsters directly from your hand with the ritual card and its core monster.
 - **AI Improvements**: The annoying AI behavior of double-tapping cards has been removed.
 - **Duel Room Feature**: In **Custom Duel**, press the shoulder buttons to scroll through duels.
 - **Intro Cutscene Skipping**: The intro cutscene is now automatically skipped.
