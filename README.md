@@ -17,9 +17,8 @@ This guide explains how to apply the Redux 2 Patch to the NTSC-U/C version of **
 Before starting, create a backup of your original ISO file. This ensures you have an untouched version in case something goes wrong.
 
 ### Step 1: Download DeltaPatcher
-1. Visit [DeltaPatcher Releases](https://github.com/marco-calautti/DeltaPatcher/releases).
-2. Download the [**latest release**](https://github.com/batzpup/Redux-2-Patch/releases) for your platform (Windows, macOS, etc.).
-3. Extract or install the application as needed.
+1. Visit [DeltaPatcher Releases](https://github.com/marco-calautti/DeltaPatcher/releases) and download the **latest release** for your platform (Windows, macOS, etc.).
+2. Extract or install the application as needed.
 
 ### Step 2: Open DeltaPatcher
 Launch the DeltaPatcher application.
