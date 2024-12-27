@@ -1,5 +1,5 @@
 # Yu-Gi-Oh! The Duelists of the Roses - Redux 2 Patch
-Clovis's Redux 2 Mod X-Delta Patch for Modding Duelist of the Roses NTSC-U/C \n
+Clovis's Redux 2 Mod X-Delta Patch for Modding Duelist of the Roses NTSC-U/C
 This guide explains how to apply the Redux 2 Patch to the NTSC-U/C version of **Yu-Gi-Oh! The Duelists of the Roses**. Follow the steps carefully to ensure a successful patching process.
 
 ---
