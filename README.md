@@ -47,7 +47,7 @@ Click **Apply patch** in DeltaPatcher. Wait for the process to complete.
 
 ## Important Notes
 - **This patch only works on the NTSC-U/C version of the game.** 
-  - There will never be a version for PAL or NTSC-J.
+  - There are no plans to make a version for PAL or NTSC-J.
 - **Do not patch a pre-patched ISO.** The patch only applies to a vanilla copy of the game.
 - No ISO files are provided here. Distributing ISOs is illegal, so you'll need to provide your own legal backup of the game.
 --- 
