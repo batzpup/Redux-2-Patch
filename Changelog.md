@@ -1,8 +1,7 @@
 # Redux II - Mod Overview
 
 Welcome to **Redux II**! This file provides useful information about the mod. If you're familiar with the **All Cards Mod**, all those changes are present in Redux II. However, like the original **Redux**, all the duels are different.  
-At the start of the game, you will only be able to select the **White Rose** campaign. This is normal. You must complete this first, then you may start on the **Red Rose** side.  
-Virtually all changes you notice in Redux II are intentional.
+At the start of the game, you will only be able to select the **White Rose** campaign. This is normal. You must complete this first, then you may start on the **Red Rose** side. Virtually all changes you notice in Redux II are intentional.
 
 ## If You're New to Redux or All Cards Mod  
 If you're not familiar with the original **Redux** mod or the **All Cards Mod**, here's a quick overview of what Redux II carries over:  
