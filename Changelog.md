@@ -1,4 +1,4 @@
-For patching instructions read [Readme](README.md)
+For patching instructions read the [Read Me](README.md)
 # Redux II - Mod Overview
 
 Welcome to **Redux II**! This file provides useful information about the mod. If you're familiar with the **All Cards Mod**, all those changes are present in Redux II. However, like the original **Redux**, all the duels are different.  
